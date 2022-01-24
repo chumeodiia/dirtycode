@@ -58,5 +58,8 @@ int main()
 	for(int i=0;i<=n;i++) res += result[s[i]];
 
     cout<<"conbooyuran";
+    int t;
+    cin>>t;
+    cout<<t;
 	return 0;
 }
